@@ -1,6 +1,6 @@
 name: "Test Company Templates"
-  description: "Standard templates for our development team"
-  templates:
+description: "Standard templates for our development team"
+templates:
   - name: "company-react"
     url: "https://github.com/company/react-template"
     description: "Company React template with our coding standards"
